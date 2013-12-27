@@ -1,0 +1,8 @@
+.DS_Store
+public/lib/
+public/css/
+.sass-cache
+node_modules
+*.log
+*~
+.env

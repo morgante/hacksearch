@@ -1,0 +1,40 @@
+._69z ._4_yl ._7ke {
+	display: none;
+}
+
+#ourMagicalInput {
+	display: none;
+	position: fixed;
+	left: 50%;
+	top: 300px;
+	font-size: 180%;
+	background: blue;
+	z-index:1000;
+}
+
+.hacksearch-item {
+	width: 582px;
+	height: 48px;
+	background: white;
+}
+
+.hacksearch-item img {
+	margin: 4px 0 0 7px;
+	display: block;
+	width: 40px;
+	height: 40px;
+	float: left;
+}
+
+.hacksearch-item span {
+	margin: 9px 0 9px 7px;
+	display: block;
+	width: 520px;
+	height: 33px; 
+	float: left;
+
+	font-weight: 700;
+	color: #333;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}
